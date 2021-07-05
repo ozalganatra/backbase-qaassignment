@@ -5,7 +5,6 @@
     <classes>
       <class name="backbaseQA.crudArticle">
         <methods>
-          <include name="updateArticle"/>
           <include name="readArticle"/>
         </methods>
       </class> <!-- backbaseQA.crudArticle -->

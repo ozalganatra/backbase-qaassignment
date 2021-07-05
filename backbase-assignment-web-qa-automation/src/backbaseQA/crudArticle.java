@@ -67,7 +67,8 @@ public class crudArticle {
 		//Go back to home page
 		driver.navigate().to("https://qa-task.backbasecloud.com/");
 		
-		driver.manage().timeouts().implicitlyWait(3,TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(15,TimeUnit.SECONDS);
+		
 		//go to global feeds
 		driver.findElement(By.xpath("//a[normalize-space()='Global Feed']")).click();
 		

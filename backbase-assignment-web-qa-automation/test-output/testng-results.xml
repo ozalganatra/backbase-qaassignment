@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-04T20:11:33 IST" name="Default suite" finished-at="2021-07-04T20:11:41 IST" duration-ms="8432">
+  <suite started-at="2021-07-05T23:50:15 IST" name="Default suite" finished-at="2021-07-05T23:50:23 IST" duration-ms="8073">
     <groups>
     </groups>
-    <test started-at="2021-07-04T20:11:33 IST" name="Default test" finished-at="2021-07-04T20:11:41 IST" duration-ms="8432">
+    <test started-at="2021-07-05T23:50:15 IST" name="Default test" finished-at="2021-07-05T23:50:23 IST" duration-ms="8073">
       <class name="backbaseQA.crudArticle">
-        <test-method signature="handleAlert()[pri:1, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:33 IST" name="handleAlert" description="Login into alert popup to access BBlog URL" finished-at="2021-07-04T20:11:36 IST" duration-ms="3721" status="PASS">
+        <test-method signature="handleAlert()[pri:1, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-05T23:50:15 IST" name="handleAlert" description="Login into alert popup to access BBlog URL" finished-at="2021-07-05T23:50:18 IST" duration-ms="3569" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- handleAlert -->
-        <test-method signature="loginConduit()[pri:2, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:36 IST" name="loginConduit" description="Login to conduit" finished-at="2021-07-04T20:11:37 IST" duration-ms="381" status="PASS">
+        <test-method signature="loginConduit()[pri:2, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-05T23:50:18 IST" name="loginConduit" description="Login to conduit" finished-at="2021-07-05T23:50:19 IST" duration-ms="343" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginConduit -->
-        <test-method signature="createNewArticle()[pri:3, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:37 IST" name="createNewArticle" description="Create New Article" finished-at="2021-07-04T20:11:38 IST" duration-ms="1165" status="PASS">
+        <test-method signature="createNewArticle()[pri:3, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-05T23:50:19 IST" name="createNewArticle" description="Create New Article" finished-at="2021-07-05T23:50:20 IST" duration-ms="1147" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createNewArticle -->
-        <test-method signature="readArticle()[pri:4, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:38 IST" name="readArticle" description="Read Article" finished-at="2021-07-04T20:11:39 IST" duration-ms="990" status="PASS">
+        <test-method signature="readArticle()[pri:4, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-05T23:50:20 IST" name="readArticle" description="Read Article" finished-at="2021-07-05T23:50:21 IST" duration-ms="913" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readArticle -->
-        <test-method signature="updateArticle()[pri:5, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:39 IST" name="updateArticle" description="Update Article" finished-at="2021-07-04T20:11:40 IST" duration-ms="613" status="PASS">
+        <test-method signature="updateArticle()[pri:5, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-05T23:50:21 IST" name="updateArticle" description="Update Article" finished-at="2021-07-05T23:50:21 IST" duration-ms="569" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- updateArticle -->
-        <test-method signature="deleteArticle()[pri:6, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:40 IST" name="deleteArticle" description="Delete Article" finished-at="2021-07-04T20:11:41 IST" duration-ms="1509" status="PASS">
+        <test-method signature="deleteArticle()[pri:6, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-05T23:50:21 IST" name="deleteArticle" description="Delete Article" finished-at="2021-07-05T23:50:23 IST" duration-ms="1489" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteArticle -->

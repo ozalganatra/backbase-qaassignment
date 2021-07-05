@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-04T20:11:33 IST" name="Default suite" finished-at="2021-07-04T20:11:41 IST" duration-ms="8432">
+    <groups>
+    </groups>
+    <test started-at="2021-07-04T20:11:33 IST" name="Default test" finished-at="2021-07-04T20:11:41 IST" duration-ms="8432">
+      <class name="backbaseQA.crudArticle">
+        <test-method signature="handleAlert()[pri:1, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:33 IST" name="handleAlert" description="Login into alert popup to access BBlog URL" finished-at="2021-07-04T20:11:36 IST" duration-ms="3721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleAlert -->
+        <test-method signature="loginConduit()[pri:2, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:36 IST" name="loginConduit" description="Login to conduit" finished-at="2021-07-04T20:11:37 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginConduit -->
+        <test-method signature="createNewArticle()[pri:3, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:37 IST" name="createNewArticle" description="Create New Article" finished-at="2021-07-04T20:11:38 IST" duration-ms="1165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewArticle -->
+        <test-method signature="readArticle()[pri:4, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:38 IST" name="readArticle" description="Read Article" finished-at="2021-07-04T20:11:39 IST" duration-ms="990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readArticle -->
+        <test-method signature="updateArticle()[pri:5, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:39 IST" name="updateArticle" description="Update Article" finished-at="2021-07-04T20:11:40 IST" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateArticle -->
+        <test-method signature="deleteArticle()[pri:6, instance:backbaseQA.crudArticle@65f095f8]" started-at="2021-07-04T20:11:40 IST" name="deleteArticle" description="Delete Article" finished-at="2021-07-04T20:11:41 IST" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteArticle -->
+      </class> <!-- backbaseQA.crudArticle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
